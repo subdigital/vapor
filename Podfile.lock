@@ -1,0 +1,13 @@
+PODS:
+  - CryptoSwift (0.2.3)
+  - PureJsonSerializer (1.0.2)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - PureJsonSerializer (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  CryptoSwift: b2bf37b8e7cc6d682ef3365cb966bc5ae5174aa5
+  PureJsonSerializer: 81d6bc0e21ed4b837193279aa3d29981f75f9057
+
+COCOAPODS: 0.39.0
